@@ -1,8 +1,6 @@
 # ButtonTest
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-     does not work in applet mode due to the quality of the images
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!! does not work in applet mode due to the quality of the images !!
 
 My first C++ app for the switch.
 
